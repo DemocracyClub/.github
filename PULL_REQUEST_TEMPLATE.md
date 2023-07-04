@@ -1,10 +1,5 @@
 ```[tasklist]
 ### PR Checklist
-<!-- Not all the items in this list will be relevant for every repo -->
-<!-- When creating a Pull Request please delete items as necessary, leaving those that are relevant.  -->
-
-Check off items once the PR addresses them.
-
 - [ ] References a specific issue or if not, describes the bug or feature in detail
 - [ ] Note what card in Trello this work relates to
 - [ ] Instructions for how reviewers can test the code locally
