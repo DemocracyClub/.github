@@ -1,5 +1,6 @@
 ```[tasklist]
 ### PR Checklist
+- [ ] Update changelog (ie https://keepachangelog.com/en/1.0.0/)
 - [ ] References a specific issue or if not, describes the bug or feature in detail
 - [ ] Note what card in Trello this work relates to
 - [ ] Instructions for how reviewers can test the code locally
